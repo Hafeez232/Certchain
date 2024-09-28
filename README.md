@@ -1,6 +1,6 @@
 **UPDATE**
 
-Unfortunately I can't upload the source code since we already sign a disclosed contract.
+Unfortunately I can't upload the source code since we already sign a undisclosed contract.
 But here's the project view.
 
 # Certchain
